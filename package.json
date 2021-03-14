@@ -1,0 +1,24 @@
+{
+	"name": "driverconfig",
+	"version": "1.0.0",
+	"description": "",
+	"main": "",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.21.1",
+		"chromedriver": "^88.0.0",
+		"howler": "^2.2.1",
+		"mplayer": "^2.1.0",
+		"node-aplay": "^1.0.3",
+		"node-key-sender": "^1.0.11",
+		"node-key-sender-cmd-fix": "^1.0.10",
+		"node-keys-simulator": "^1.0.0",
+		"play-sound": "^1.1.3",
+		"selenium-webdriver": "^4.0.0-alpha.8"
+	}
+}
